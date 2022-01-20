@@ -14,18 +14,7 @@ body{
     padding-left: 50px;
 }
 .header-section{
-    height: calc(100vh - 66px);
+    
     background-color: #FFFBF0;
 }
-.woman-jacket-section{
-    height: 100vh;
-    margin-bottom: 30px;
-}
-.man-jacket-section{
-    height: 100vh;
-    margin-bottom: 30px;
-}
 
-.finding-perfect{
-    height: 80vh;
-}
